@@ -65,6 +65,9 @@ Below are the description of the columns in the dataset:
 ## My platforms
 Reach out to me if you have any questions!
 
-
-
-
+- [Facebook](https://www.facebook.com/chongjason914)
+- [Instagram](https://www.instagram.com/chongjason914)
+- [Twitter](https://www.twitter.com/chongjason914)
+- [LinkedIn](https://www.linkedin.com/in/chongjason914)
+- [YouTube](https://www.youtube.com/channel/UCQXiCnjatxiAKgWjoUlM-Xg?view_as=subscriber)
+- [Medium](https://www.medium.com/@chongjason)
