@@ -57,8 +57,8 @@ Below are the description of the columns in the dataset:
 - 7.6 sns.lmplot
 - 7.7 sns.swarmplot
 - 7.8 sns.violinplot
-- 7.9 sns.pairplot
-- 7.10 sns.pointplot
+- 7.9 sns.pointplot
+- 7.10 sns.pairplot
 
 **8. Conclusion**
 
