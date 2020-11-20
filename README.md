@@ -3,7 +3,7 @@
 ## Introduction
 [Seaborn](https://seaborn.pydata.org/examples/index.html) is a data visualisation library that is built on top of the Python programming language. This repository contains a 
 tutorial notebook which demonstrates some of the most common visualisation techniques in the seaborn library as well as a medical cost dataset from Kaggle. I have applied 
-various data visualisations to explore the distribution and relationship between th variables in the dataset.
+various data visualisations to explore the distribution and relationship between the variables in the dataset.
 
 ## Data description
 The [Kaggle medical cost dataset](https://www.kaggle.com/mirichoi0218/insurance) contains information about 1,338 insurance beneficiaries living in the United States and 
