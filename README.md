@@ -70,5 +70,5 @@ Link to full write-up on Towards Data Science [here](https://towardsdatascience.
 - [Instagram](https://www.instagram.com/chongjason914)
 - [Twitter](https://www.twitter.com/chongjason914)
 - [LinkedIn](https://www.linkedin.com/in/chongjason914)
-- [YouTube](https://www.youtube.com/channel/UCQXiCnjatxiAKgWjoUlM-Xg?view_as=subscriber)
+- [YouTube](https://www.youtube.com/jasonchong914)
 - [Medium](https://www.medium.com/@chongjason)
