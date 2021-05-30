@@ -14,7 +14,7 @@ I have chosen this dataset for the following reasons:
 - Not too many features (columns)
 - Intuitive and straightforward relationship between the predictor and target variables 
 
-Below are the description of the columns in the dataset:
+Below are the description of each column in the dataset:
 - age: Age of primary beneficiary
 - sex: Insurance contractor gender
 - bmi: Body mass index
@@ -22,45 +22,6 @@ Below are the description of the columns in the dataset:
 - smoker: Smoking
 - region: The beneficiary's residential area in the US
 - charges: Individual medical costs billed by health insurance
-
-## Notebook content
-**0. Introduction**
-
-**1. Import libraries**
-
-**2. Import and read data**
-
-**3. Data description**
-
-**4. Check missing values, data types and summary statistics**
-
-**5. Feature engineering**
-- age_category
-- weight_condition
-- dependent
-
-**6. Visualise distribution**
-- 6.1 Categorical variables
-  - 6.1.1 sns.countplot
-  - 6.1.2 sns.catplot (formerly sns.factorplot)
-- 6.2 Numerical variables
-  - 6.2.1 sns.boxplot
-  - 6.2.2 sns.distplot
-  - 6.2.3 sns.kdeplot
-
-**7. Visualise relationship**
-- 7.1 sns.heatmap
-- 7.2 sns.barplot
-- 7.3 sns.jointplot
-- 7.4 sns.scatterplot
-- 7.5 sns.regplot
-- 7.6 sns.lmplot
-- 7.7 sns.swarmplot
-- 7.8 sns.violinplot
-- 7.9 sns.pointplot
-- 7.10 sns.pairplot
-
-**8. Conclusion**
 
 ## Medium article 
 Link to full write-up on Towards Data Science [here](https://towardsdatascience.com/visualising-data-with-seaborn-who-pays-more-for-health-insurance-200d01892ba5).
