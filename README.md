@@ -62,9 +62,10 @@ Below are the description of the columns in the dataset:
 
 **8. Conclusion**
 
-## My platforms
-Reach out to me if you have any questions!
+## Medium article 
+Link to full write-up on Towards Data Science [here](https://towardsdatascience.com/visualising-data-with-seaborn-who-pays-more-for-health-insurance-200d01892ba5).
 
+## Follow me 
 - [Facebook](https://www.facebook.com/chongjason914)
 - [Instagram](https://www.instagram.com/chongjason914)
 - [Twitter](https://www.twitter.com/chongjason914)
